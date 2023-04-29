@@ -14,9 +14,3 @@ This project is a part of the following tracks:
 ### Learning outcomes
 <p>In this project, you will create a game intended for two players.</p>
 <p>To complete this project, show your command of strings, lists, conditions, and loops. Make a game that you can play with your friends or family members!</p>
-
-
-
-
-
-<p>Chess is a very popular game, but over time even the classic chess rules may become tiresome. The good news is that there are hundreds of variants. One of them is Pawns-only chess. Let's make a game where players should move their pawns to the opposite side of the board or capture all opposite pawns to win. In this project, you will create a game intended for two players.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/182?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/182</a>
